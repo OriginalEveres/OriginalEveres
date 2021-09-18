@@ -1,4 +1,4 @@
-# <center>Hey! 👋🏻 My name is Matthew 😎</center>
+# <p align="center">Hey! 👋🏻 My name is Matthew 😎</p>
 
 <strong style="display: inline-block;" align=center>and I'm Founder of</strong>
 <img width="100" style="display: inline-block;" align=center src="https://solcode.net/_nuxt/img/360969f.svg" />
