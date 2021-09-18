@@ -1,7 +1,8 @@
 # <center>Hey! 👋🏻 My name is Matthew 😎</center>
 
-<center><strong>and I'm Founder of</strong></center>
-<center><img src="https://solcode.net/_nuxt/img/360969f.svg" /></center>
+<strong align=center>and I'm Founder of</strong>
+<img align=center src="https://solcode.net/_nuxt/img/360969f.svg" />
+
 
 
 
