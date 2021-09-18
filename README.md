@@ -4,11 +4,11 @@
 
 <p align="center">
 	<img width="100" src="https://solcode.net/_nuxt/img/360969f.svg" />
-	<img width="100" src="https://solcode.net/_nuxt/img/31c14cf.svg" />
 </p>
 
-
-
+<p align="center">
+	<img width="100" src="https://solcode.net/_nuxt/img/31c14cf.svg" />
+</p>
 
 
 <!--
