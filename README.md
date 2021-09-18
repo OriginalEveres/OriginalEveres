@@ -3,11 +3,11 @@
 <p align="center"><strong>and I'm Founder of</strong></p>
 
 <p align="center">
-	<img width="100" src="https://solcode.net/_nuxt/img/360969f.svg" />
+	<a href="https://solcode.net"><img width="100" src="https://solcode.net/_nuxt/img/360969f.svg" /></a>
 </p>
 
 <p align="center">
-	<img width="100" src="https://solcode.net/_nuxt/img/31c14cf.svg" />
+	<a href="https://solcode.net"><img width="100" src="https://solcode.net/_nuxt/img/31c14cf.svg" /></a>
 </p>
 
 
