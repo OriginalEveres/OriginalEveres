@@ -14,7 +14,7 @@
 
 ##
 
-### <p align="center">FEATURE PROJECTS</p>
+### <p align="center">FEATURED PROJECTS</p>
 
 <p align="center">Recket.cz </p>
 
