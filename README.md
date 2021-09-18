@@ -1,4 +1,9 @@
-### Hi there 👋
+# <center>Hey! 👋🏻 My name is Matthew 😎</center>
+
+<center><strong>and I'm Founder of</strong></center>
+<center><img src="https://solcode.net/_nuxt/img/360969f.svg" /></center>
+
+
 
 <!--
 **OriginalEveres/OriginalEveres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
