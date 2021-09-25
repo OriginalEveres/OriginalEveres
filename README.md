@@ -26,7 +26,7 @@
 
 ### <p align="center">FEATURED LIBRARIES</p>
 
-<p align="center"><strong>Center.css</strong> (https://dev.solcode.net/centercss) [![](https://data.jsdelivr.com/v1/package/gh/OriginalEveres/center.css/badge)](https://www.jsdelivr.com/package/gh/OriginalEveres/center.css)</p>
+<p align="center"><strong>Center.css</strong> (https://dev.solcode.net/centercss) [![](https://data.jsdelivr.com/v1/package/gh/OriginalEveres/center.css/badge)](https://www.jsdelivr.com/package/gh/OriginalEveres/center.css)]</p>
 
 ##
 
