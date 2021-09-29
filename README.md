@@ -20,7 +20,7 @@
 <p align="center"><strong>Recket.cz</strong> (https://recket.com)</p>
 <p align="center"><strong>Prezentica.sk</strong> (https://prezentica.sk)</p>
 <p align="center"><strong>Ultrasafe crypto website</strong> (https://ultrasafe.finance)</p>
-<p align="center"><strong>Jaluvkova psychology website</strong> (https://https://www.psychoterapie-opava.cz)</p>
+<p align="center"><strong>Jaluvkova psychology website</strong> (https://www.psychoterapie-opava.cz)</p>
 
 ##
 
