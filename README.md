@@ -2,7 +2,7 @@
 # <p align="center">Hey! 👋🏻 My name is Matthew 😎</p>
 
 <p align="center">and I'm a full stack developer who fell in love with a great design.</p>
-<p align="center">Currently I'm helping out with development in [RolloutIT](https://dribbble.com/solcode-solutions](https://rolloutit.net)</p>
+<p align="center">Currently I'm helping out with development in [RolloutIT](https://rolloutit.net)</p>
 
 ##
 
