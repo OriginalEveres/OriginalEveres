@@ -1,18 +1,8 @@
 
 # <p align="center">Hey! 👋🏻 My name is Matthew 😎</p>
 
-<p align="center"><strong>and I'm Founder & CEO of</strong></p>
-
-<p align="center">
-	<a href="https://solcode.net"><img width="100" src="https://solcode.net/_nuxt/img/360969f.svg" /></a>
-</p>
-
-<p align="center">
-	<a href="https://solcode.net"><img width="100" src="https://solcode.net/_nuxt/img/31c14cf.svg" /></a>
-</p>
-
-<p align="center">and also a full stack developer who fall in love with a great design.</p>
-[Check out our Dribbble](https://dribbble.com/solcode-solutions)
+<p align="center">and I'm a full stack developer who fell in love with a great design.</p>
+<p align="center">Currently I'm helping out with development in [RolloutIT](https://dribbble.com/solcode-solutions](https://rolloutit.net)</p>
 
 ##
 
@@ -23,6 +13,8 @@
 <p align="center"><strong>Prezentica.sk</strong> (https://prezentica.sk - no longer active)</p>
 <p align="center"><strong>Ultrasafe crypto website</strong> (https://ultrasafe.finance)</p>
 <p align="center"><strong>Jaluvkova psychology website</strong> (https://www.psychoterapie-opava.cz)</p>
+<p align="center"><strong>solcode.net</strong> (https://solcode.net)</p>
+[Check out our Dribbble](https://dribbble.com/solcode-solutions)
 
 ##
 
